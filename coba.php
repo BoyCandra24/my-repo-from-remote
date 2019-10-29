@@ -1,3 +1,10 @@
-<?php 
-echo "Selamat malam";
-?>
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+ 
+  <body>
+    Hello World
+  </body>
+ 
+</html>
